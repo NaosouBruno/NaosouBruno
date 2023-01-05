@@ -23,7 +23,7 @@
 <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img alt="materialui" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
-<img alt="redux" src="	https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+<img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 
 
 </div>
